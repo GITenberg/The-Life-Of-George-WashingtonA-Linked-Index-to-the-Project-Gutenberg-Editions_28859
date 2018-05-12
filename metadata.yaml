@@ -1,0 +1,37 @@
+_repo: The-Life-Of-George-WashingtonA-Linked-Index-to-the-Project-Gutenberg-Editions_28859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, John
+    birthdate: 1755
+    deathdate: 1835
+    gutenberg_agent_id: '7912'
+    url: http://www.gutenberg.org/2009/agents/7912
+    wikipedia: http://en.wikipedia.org/wiki/John_Marshall
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Indexes'
+title: 'The Life Of George Washington
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28859
